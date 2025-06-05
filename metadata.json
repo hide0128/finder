@@ -1,0 +1,6 @@
+{
+  "name": "企業情報ファインダー",
+  "description": "会社名を入力すると、その会社のドメイン名と本社の郵便番号を検索して表示するアプリケーションです。",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
